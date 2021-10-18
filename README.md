@@ -1,3 +1,4 @@
+![alt](https://user-images.githubusercontent.com/75102477/137795477-08e5e160-e776-4eed-bc48-b51f22059651.png) 
 - 👋 Hi, I’m @anhtran123-max
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,4 +9,3 @@
 anhtran123-max/anhtran123-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![alt](https://user-images.githubusercontent.com/75102477/137795477-08e5e160-e776-4eed-bc48-b51f22059651.png) 
