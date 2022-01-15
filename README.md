@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&theme=light&hide_langs_below=1" />
 </a>
 <div>
-  <p align="center">## Thanks for visiting!</p>
+  <p align="center"><b>## Thanks for visiting!</b></p>
 </div>
 
 
