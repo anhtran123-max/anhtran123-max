@@ -17,7 +17,9 @@
 
 <br/>
 <br/>
-
+<a href="https://github.com/anhtran123-max">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&theme=light&hide_langs_below=1" />
+</a>
 
 - 🔭 I am currently studying at University of Transport, Ho Chi Minh City branch.
 - 🌱 I’m currently learning more about Data Science.
@@ -30,9 +32,7 @@
 
    
 
-<a href="https://github.com/anhtran123-max">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&theme=light&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/anhtran123-max">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtran123-max&show_icons=true&theme=light&line_height=27" alt="Tranducanh's github stats"/>
 </a>
