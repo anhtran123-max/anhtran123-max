@@ -36,7 +36,7 @@
 <a href="https://github.com/anhtran123-max">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtran123-max&show_icons=true&theme=light&line_height=27" alt="Tranducanh's github stats"/>
 </a>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <div align="center">
 
 ### Thanks for visiting!
