@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on [Facebook](https://www.facebook.com/tranducanhcntt).
 - 🤔 I’m looking for help with Data Science documentation.
 - 💬 Ask me about any tech-related stuff.
-- 📫 How to reach me: [Facebook - @tranducanhcntt](https://www.facebook.com/tranducanhcntt) , [Email - anhtrankoc@gmail.com](https://gmail.com/)
+- 📫 How to reach me: [Facebook - @tranducanhcntt](https://www.facebook.com/tranducanhcntt) , [Email - ducanhtran2772002@gmail.com](mailto:ducanhtran2772002@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
