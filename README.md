@@ -47,13 +47,6 @@ Will update later
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtran123-max&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anhtran123-max">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtran123-max&show_icons=true&theme=radical&line_height=27" alt="Tranducanh's github stats"/>
-</a>
-<a href="https://github.com/anhtran123-max">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&theme=radical&hide_langs_below=1" />
-</a>
-
 <h2 align="center"> 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 !</h2>
 
 
