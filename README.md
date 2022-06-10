@@ -35,6 +35,9 @@
 
 Will update later
 
+## Tropy Stats
+
+![Trophy Stats](https://github-profile-trophy.vercel.app/?username=anhtran123-max&theme=radical)
 
 <a href="https://github.com/anhtran123-max">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtran123-max&show_icons=true&theme=light&line_height=27" alt="Tranducanh's github stats"/>
