@@ -35,9 +35,9 @@
 
 Will update later
 
-## Tropy Stats
+//## Tropy Stats
 
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=anhtran123-max&theme=radical)
+//![Trophy Stats](https://github-profile-trophy.vercel.app/?username=anhtran123-max&theme=radical)
 
 ## Profile Summary
 
