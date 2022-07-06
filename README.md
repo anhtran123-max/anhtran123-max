@@ -48,7 +48,7 @@ Will update later
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtran123-max&theme=radical&show_icons=true)
 
 
-
+<!-- -->
 <h2 align="center"> 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 !</h2>
 
 
