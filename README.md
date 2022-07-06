@@ -39,13 +39,15 @@ Will update later
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=anhtran123-max&theme=radical) -->
 
+## Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtran123-max&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Profile Summary
 
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtran123-max&theme=radical&show_icons=true)
 
-## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtran123-max&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran123-max&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center"> 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 !</h2>
 
